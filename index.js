@@ -13,4 +13,3 @@ for( let i=0; i < pronombre.length; i++){
     }
 }
 
-console.log(nombres)
